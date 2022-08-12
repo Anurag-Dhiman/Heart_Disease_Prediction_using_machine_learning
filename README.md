@@ -1,5 +1,5 @@
 # Heart_Disease_Prediction_using_machine_learning
-This is a project which uses Heart disease prediction dataset from UCI.
+## This project uses Heart disease prediction dataset from UCI to perform a classification task and predict a heart disease given other features.
 
 Following machine learning models are compared:
 * Logistic Regression
@@ -8,10 +8,11 @@ Following machine learning models are compared:
 * XGBoost 
 
 Following steps are performed in this project:
-* Dataset Cleaning
+* Dataset preprocessing
 * EDA
 * Model Building
 * Model hypertuning
 * Model Evaluation
 * Model Comparison
 * Feature Importances
+* Conclusion
